@@ -2,8 +2,10 @@
 These are talk ideas, nothing written up yet.
 
 ### technical
+* Grammar for developers: how language helps you find design smells
 * Storing & Retrieving: a talk about the "basic" data structures, and common implementations
 * Back to the past: when CS people were mathematicians and wrote incredible proofs
+* Back to the past II: useful lessons from bearded gurus
 
 ### about my job
 * (meta-)rogramming (meta-)programming
