@@ -10,6 +10,9 @@ These are talk ideas, nothing written up yet.
 ### about my job
 * (meta-)rogramming (meta-)programming
 * Beyond the speed limit / What happens when you go too fast
+* Fun or not Fun
+    - tests are not fun, but we do it because debugging code is even more painful
+    - what if we had automatic proof systems?
 
 ### jobs
 * How to ask questions / bug reports
