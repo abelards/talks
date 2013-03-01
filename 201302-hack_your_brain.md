@@ -1,15 +1,18 @@
 # Hack Your Brain
 This is actually a series of talks.
+Have a look at episode II: Hack Your Motivation
 
-## Introduction
+### Introduction
 We're curious minds, hackers and tinkerers. We love to tweak our tools.
 But our most important and wonderful tool is our own brain.
 How can we understand what's going on so we can hack it?
 
-## Companion Slides
+### Companion Slides
 https://speakerdeck.com/abelar_s/hack-your-brain-trivia
 I've added pictures of brilliant minds on each slides.
 You can find all the trivia in "Hack Your Brain - Trivia".
+
+---
 
 ## Intelligence
 The one point is: if you believe you can improve, you will.
@@ -24,7 +27,7 @@ It's a graph. You should optimize your learning method to:
 * ping yourself or use Anki (ankisrs.net) and others to reinforce memorization
 
 ## Toolbox
-The Feynam method tells it all: explain in simple terms, ask questions, question everything.
+The Feynman method tells it all: explain in simple terms, ask questions, question everything.
 
 ## Conclusion
 It's all about managing health, motivation and time!

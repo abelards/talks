@@ -6,11 +6,16 @@ Problem. Why? How to solve this?
 ## Why not
 * no docs? not true
 * not known? not true
-* not enough people? Well, there are some, work on it.
-
-* Ruby devs are too expensive? How cheap is a failed/late project?
-* You have other technologies in place? Yes, and are you happy? You can integrate.
+* not enough people?
+    - Well, there are some, work on it.
+* Ruby devs are too expensive
+    - How cheap is a failed/late project?
+* You have other technologies in place
+    - This is only a valid answer if you're satisfied with what you have today
+    - Yes, but you can integrate them
 * FUD: security, performance, ...
+    - RailsSec is more reactive than most other stacks
+    - JRuby has great performance, many other tricks are available
 
 ## Solutions
 * there ARE jobs, and not only in startups

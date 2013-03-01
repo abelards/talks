@@ -16,3 +16,9 @@ These are talk ideas, nothing written up yet.
 * Recruiting - well, ask @matthieusegret for that ;)
 * Negociating - well, ask @tibastral for that ;)
 * Egoless: Ego mixes up (and messes up!) many things. Freshmen, schools, recruiters, teams, managers...
+
+### fun talks
+* Dumb Ways to Code: using "Dumb Ways to Die" pictures to draw similarities with smells.
+  I'm late to the party because the meme faded out, but hey.
+* Slide Karaoke: I'm doing a few decks on (design, architecture, code) smells
+  So I can share them and have people do a PPT karaoke :)
