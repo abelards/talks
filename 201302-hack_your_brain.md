@@ -1,6 +1,7 @@
 # Hack Your Brain
 This is actually a series of talks.
 Have a look at episode II: Hack Your Motivation
+Also, episode II has a Dark Side part ;)
 
 ### Introduction
 We're curious minds, hackers and tinkerers. We love to tweak our tools.

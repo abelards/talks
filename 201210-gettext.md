@@ -16,12 +16,13 @@ This is how we use GetText, a Unix standard, instead of Rails-I18N.
     * conjugation: person, tense, mood, voice, aspect
 
 * GetText code
-    * setup
-    * use
-    * tricks: forms & context keys
+    * what are these files? .po translations, .mo compiled
+    * **setup:** remember to set at least one locale
+    * **use:** _('text'), _('text with %{var}') % {var: 'interpolation'}
+    * **tricks:** forms & context keys
 
 ## What?
-* tools around GetText
+* tools around GetText: POEdit, editor modes
 * alternatives
 
 

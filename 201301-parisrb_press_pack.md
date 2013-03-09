@@ -3,7 +3,18 @@ I see lots of sad developers: I do Ruby at night, my day job is depressing.
 I see lots of sad managers: I'd love to hire Rubyists but I can't find them.
 Problem. Why? How to solve this?
 
-## Why not
+## Figures
+
+### ParisRB: 750+ members, 100~130 each month
+We've been lucky to welcome international guests and sponsors.
+
+### RailsGirls: 75+ events, 60+ cities, 30+ countries
+Teaching women (and men!) to understand the web, the Rails stack, and start coding!
+
+## Talk
+
+### Problems: why they're afraid
+and how to solve it
 * no docs? not true
 * not known? not true
 * not enough people?
@@ -17,7 +28,7 @@ Problem. Why? How to solve this?
     - RailsSec is more reactive than most other stacks
     - JRuby has great performance, many other tricks are available
 
-## Solutions
+### Solutions: act now!
 * there ARE jobs, and not only in startups
 * there are efforts for more french docs: @happynoff
 * community, communication, training, classes

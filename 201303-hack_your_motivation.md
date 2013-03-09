@@ -17,7 +17,7 @@ You can find all the trivia in "Hack Your Brain - Trivia".
 ## Introduction
 We've seen how to hack your brain. And now to hack the hacks!
 
-## Dark Side of the Brain
+## How it works, how you can hack it
 It's hard to keep working when we're frustrated or just feeling lazy.
 So can we use tricks to perform best, when we're at our worst?
 Know thy weaknesses, train yourself, bribe yourself, track yourself!
@@ -28,3 +28,8 @@ Or get out of social stuff: play, try, risk and fail without fear.
 
 ## Conclusion
 Try to exercise, it's long but it's worth it.
+
+---
+
+## Dark Side
+This talk may come with tips from the Dark Side, like using your own laziness to work.
