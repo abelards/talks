@@ -17,6 +17,9 @@ These are talk ideas, nothing written up yet.
 * Negociating - well, ask @tibastral for that ;)
 * Egoless: Ego mixes up (and messes up!) many things. Freshmen, schools, recruiters, teams, managers...
 
+### communication
+* Hack Your Bullshit Detector: how marketing fools you everyday
+
 ### fun talks
 * Dumb Ways to Code: using "Dumb Ways to Die" pictures to draw similarities with smells.
   I'm late to the party because the meme faded out, but hey.
