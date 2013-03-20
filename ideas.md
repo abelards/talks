@@ -20,6 +20,9 @@ Feel free to pick ideas from here and tell me: if you like the theme and do the 
 * Recruiting - well, ask @matthieusegret for that ;)
 * Negociating - well, ask @tibastral for that ;)
 * Egoless: Ego mixes up (and messes up!) many things. Freshmen, schools, recruiters, teams, managers...
+* We were superheroes - how coding on Casio and TI89 made us dream
+* The Storm is Coming - danger in the Cloud!
+
 
 ### Science
 For now it's mostly Lightnings: I'm no expert, but I'd give the basic hypotheses, interesting results and applications.
