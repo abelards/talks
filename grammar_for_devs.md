@@ -1,9 +1,6 @@
 # Languages, language? Why all the rage?
 ## Grammar for developers: how language helps you find design smells
 
-I submitted this talk to baruco.org
-The big Ruby conference in Barcelona (ES) on September 14-15th
-
 ## Introduction
 We all know how important it is to express our points clearly.
 It's been said that the most important skill for developers is communication.
