@@ -2,11 +2,28 @@
 These are talk ideas, nothing written up yet.
 Feel free to pick ideas from here and tell me: if you like the theme and do the work, I'd love to sit and listen to you :)
 
+### Detailed
+I am already fleshing out some topics, which may or may not become talks:
+* Beware of magic and defaults: lessons from the Rails YAML vulnerability
+* Grammar for developers: how language helps you find design smells
+* Simple needs, complex options: examples of hidden complexity
+* No Silver Bullet: what is actually the moral of this?
+
+If you feel some ideas in this file deserve a better treatment, ping me!
+
+
+### Stealing talks
+I've been impressed by @cyriux's DDD games.
+I love them and want every developer to know about them.
+Either I'm getting him talk at ParisRB, or I make the talk myself.
+But I'm no expert (yet) so ask for the real thing.
+
 
 ### Technical
 * Storing & Retrieving: a talk about the "basic" data structures, and common implementations
 * Writing a compiler from scratch: memories from school, some steps that are often overlooked and good to know
 * Lightning: is Object-Oriented message passing, or inheritance?
+
 
 ### About my job
 * (meta-)rogramming (meta-)programming
@@ -14,6 +31,7 @@ Feel free to pick ideas from here and tell me: if you like the theme and do the 
 * Fun or not Fun
     - tests are not fun, but we do it because debugging code is even more painful
     - what if we had automatic proof systems?
+
 
 ### Devs
 * How to ask questions / bug reports
