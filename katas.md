@@ -1,24 +1,22 @@
 # Architectural Katas
-
 Who has never been stuck in design decisions that made the project slow down, sometimes to a halt?
 
-We don't get to create full architectures from scratch often.
+**We don't get to create full architectures from scratch often.**
 Most senior architects have only seen a handful projects from conception to completion.
 Experience comes from errors, so I believe the best lessons come from early bad decision coming back to bite you.
 
-We should practice "Architectural Katas" and (kindly) criticize each other, even beyond the technical points.
+**We should practice "Architectural Katas" and (kindly) criticize each other, even beyond the technical points.**
 What are the assumptions? Where is the customer most likely to change his mind?
 We need to share our insights to help balance between under-design and over-designing things.
 
-Let's practice together!
+**Let's practice together!**
 
 ## Ideas
-
+See katas_ideas.md to have some more details
 * DocumentFactory
 * Boardgames' lobby
 * Strategy game
 * Airport certifications
-
 
 ## How it works
 Of course, any rule can be change if the attendees reach a consensus.

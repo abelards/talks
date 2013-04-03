@@ -1,10 +1,9 @@
 # Ideas
-## Comment on them, vote for them, steal them!
+These are talk ideas, nothing big written up yet.
+**Comment on them, vote for them, steal them!**
+If you feel some ideas in this file deserve a better treatment, ping me.
 
-* These are talk ideas, nothing big written up yet.
-* If you feel some ideas in this file deserve a better treatment, ping me.
-* Also, feel free to pick ideas from here and make your own talk!
-
+Also, feel free to pick ideas from here and make your own talk!
 Just tell me: if you like the theme and do the work, I'd love to sit and listen to you :)
 
 

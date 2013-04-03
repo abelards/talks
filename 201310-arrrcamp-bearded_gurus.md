@@ -1,6 +1,5 @@
 # Bearded Gurus
-## Bearded captains set the sails for today's computer goodness
-
+**Bearded captains set the sails for today's computer goodness**
 I submitted this talk to arrcamp.be
 A Ruby, Rails and Web conference in Ghent (BE) on October 3-4th
 

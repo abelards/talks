@@ -1,5 +1,5 @@
 # Languages, language? Why all the rage?
-## Grammar for developers: how language helps you find design smells
+**Grammar for developers: how language helps you find design smells**
 
 ## Introduction
 We all know how important it is to express our points clearly.

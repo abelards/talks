@@ -1,7 +1,7 @@
 # Ruby Press Pack
-I see lots of sad developers: I do Ruby at night, my day job is depressing.
-I see lots of sad managers: I'd love to hire Rubyists but I can't find them.
-Problem. Why? How to solve this?
+* I see lots of sad developers: I do Ruby at night, my day job is depressing.
+* I see lots of sad managers: I'd love to hire Rubyists but I can't find them.
+**That's a problem, and an opportunity. Why? How to solve this?**
 
 ## Figures
 

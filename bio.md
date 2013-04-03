@@ -1,5 +1,5 @@
 # Bio
-All conferences require a bio, but no two conferences are the same.
+**All conferences require a bio, but no two conferences are the same.**
 
 ## Short
 Sylvain Abélard is a problem solver at Faveod & ParisRB.

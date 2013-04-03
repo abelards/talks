@@ -1,5 +1,5 @@
 # Hack Your Brain II - Hack Your Motivation
-This is episode II in the "Hack Your Brain" series.
+This is episode III in the "Hack Your Brain" series.
 Managing your time, habits and motivation using your brain’s elasticity.
 
 ### Series Intro

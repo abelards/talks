@@ -1,5 +1,5 @@
 # GetText
-Translations are hard.
+**Translations are hard.**
 This is how we use GetText, a Unix standard, instead of Rails-I18N.
 
 ## Why?
