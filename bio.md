@@ -2,8 +2,9 @@
 **All conferences require a bio, but no two conferences are the same.**
 
 ## Short
-Sylvain Abélard is a problem solver at Faveod & ParisRB.
+Sylvain Abélard is a problem solver at Faveod.
 He mostly uses Ruby, Rails and asking questions to help people.
+He's co-organiser at ParisRB and would love to welcome you in beautiful Paris, France.
 
 ## DevsLoveBacon
 Sylvain's grandfathers are a wine-maker and a baker. He spent his youth in several countrysides in France, where he learnt to love food, beverages, and being as arrogant as is appropriate for any self-respecting frenchman.
