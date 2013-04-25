@@ -14,12 +14,12 @@ Différentes possibilités et degrés
 
 ## CNIL
 Commission Nationale Informatique et Libertés
-* accès / rectification
-* transmission
+* information (on stocke vos données, lesquelles, quels droit, qui contacter)
+* consentement explicite si donnée sensible
+* droit d'accès / rectification
+* droit d'opposition à la transmission
 * péremption
-* responsable
-
-
+* sécurité
 
 ## Obligation de conseil
 Vous êtes le professionnel, vous devez conseiller le client.
