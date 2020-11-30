@@ -11,11 +11,9 @@ Just tell me: if you like the theme and do the work, I'd love to sit and listen 
 I am already fleshing out some topics, which may or may not become talks:
 * Beware of magic and defaults: lessons from the Rails YAML vulnerability
 * Grammar for developers: how language helps you find design smells
-* Simple needs, complex options: examples of hidden complexity
 * No Silver Bullet: what is actually the moral of this?
 * Egoless Everything: Ego mixes up (and messes up!) many things. Watch & learn
 Here again: comment, vote, and steal!
-
 
 ### Games & Katas
 I've been impressed by @cyriux's DDD games or architectural katas.
@@ -40,8 +38,8 @@ But I'm no expert (yet) so ask for the real thing ;)
 
 ### Devs
 * How to ask questions / bug reports
-* Recruiting - well, ask @matthieusegret for that ;)
-* Negociating - well, ask @tibastral for that ;)
+* Recruiting
+* Negociating
 * We were superheroes - how coding on Casio and TI89 made us dream
 * The Storm is Coming - danger in the Cloud!
 * Words of the Rising Sun: kanban, baka yoke...
