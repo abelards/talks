@@ -1,14 +1,16 @@
 Bonjour !
-J'essaie de streamer et discuter informatique tous les lundis 18h-19h.
-L'audience que j'envisage c'est surtout les personnes en début de carrière.
-Les sujets que j'envisage ne sont pas du pur code, mais un peu tout ce qui va autour.
-Si ça vous tente : https://twitch.tv/abelar_s
+- J'essaie de streamer et discuter informatique tous les lundis 18h-19h. 
+- L'audience que j'envisage c'est surtout les personnes en début de carrière.
+- Les sujets que j'envisage ne sont pas du pur code, mais un peu tout ce qui va autour. 
+- Si ça vous tente : https://twitch.tv/abelar_s
+
 
 
 J'ai des sujets déjà écrits que je peux reprendre au pied levé :
 - https://maitre-du-monde.fr/talks
 - http://thecodelesscode.com/case/100 (et les autres)
 - http://thecodelesscode.com/applicant/5?lang=fr&trans=abelards (parmi ceux qui m'ont laissé la plus durable impression)
+
 
 Et j'ai quelques futurs sujets qui m'ont été suggérés :
 
@@ -34,4 +36,5 @@ Business
 * https://www.intercom.com/blog/the-orange-juice-test/
 
 
+À bientôt en live ?
 
